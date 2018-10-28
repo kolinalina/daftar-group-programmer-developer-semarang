@@ -5,7 +5,7 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 ## List
 
 ### Programming Language & Related
-
+  + [OSC UNNES](https://t.me/oscunnes) 
   + [Santren Koding](https://t.me/santrenkoding)
   + [Android Mastery](https://t.me/androidmastery)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
