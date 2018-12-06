@@ -5,7 +5,6 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 ## List
 
 ### Programming Language & Related
-
   + [Santren Koding](https://t.me/santrenkoding)
   + [Android Mastery](https://t.me/androidmastery)
   + [SANDEC (Semarang Android Developer Center)](https://t.me/AndroidSemarang)
@@ -17,6 +16,14 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 ### Women Dev
   + [Fatimahdev]- Semarang(https://t.me/fatimahdev)
   
+### Komunitas Developer Kampus/Universital
+  + UKM [PCC](https://ukmpcc.org)
+  + [OSC UNNES](https://t.me/oscunnes) 
+  
+### Komunitas Developer dari Perusahaan
+  + Google Developer Group
+  + Developer Circle from Facebook
+
 ### Startup
 
   + [Startup Semarang aka SmartUp](http://semarangstartup.com/)
